@@ -17,7 +17,7 @@ on:
 env:
   REGISTRY_HOST: registry.cn-hangzhou.aliyuncs.com
   CONTAINER_NAME: apm-adapter
-  DEPLOYMENT_NAME: apm-adapter
+  DEPLOYMENT_NAME: apo-collector
   NAMESPACE: apo
 
 jobs:
